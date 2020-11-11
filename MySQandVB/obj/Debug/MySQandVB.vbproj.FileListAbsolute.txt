@@ -1,0 +1,10 @@
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\bin\Debug\MySQandVB.exe.config
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\bin\Debug\MySQandVB.exe
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\bin\Debug\MySQandVB.pdb
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\bin\Debug\MySQandVB.xml
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\obj\Debug\MySQandVB.MainFrm.resources
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\obj\Debug\MySQandVB.Resources.resources
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\obj\Debug\MySQandVB.vbproj.GenerateResource.Cache
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\obj\Debug\MySQandVB.exe
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\obj\Debug\MySQandVB.xml
+D:\VB.NET PROJECTS\MySQandVB\MySQandVB\obj\Debug\MySQandVB.pdb
